@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: chatsyno
+Version: 1.0.0
+Summary: Automating synology using selenium
+Home-page: https://github.com/knightmare-sujen/synochat
+Download-URL: https://github.com/knightmare-sujen/synochat
+Author: knightmare
+Author-email: kneel.stha@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
